@@ -25,3 +25,6 @@ The stitching path for each letter is computationally generated using a combinat
  - [A: Concentric Fill (Field Fill)](https://github.com/DavidBPerry/Embroidery-Lettering/tree/main/WorkingCode/YEAR/Radial_Texture)
  - [R: Solvent Lace](https://github.com/DavidBPerry/Embroidery-Lettering/tree/main/WorkingCode/YEAR/SolventLace_Texture)
 
+## Acknowledgements
+- [PEmbroider](https://github.com/CreativeInquiry/PEmbroider), from CMU's Studio for Creative Inquiry, was used to write embroidery files and manage basic fills
+- [Tatyana Mustakos](https://github.com/tatyanade) helped in initial experiments that influenced some of the techniques used here
