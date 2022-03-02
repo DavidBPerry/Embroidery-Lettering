@@ -1,4 +1,4 @@
-# Embroidery-Lettering
+# Embroidered-Lettering
 
 This is a New Years sampler of computational embroidery textures and techniques. 
 
